@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+
+    <body>
+        <table border="1">
+             <tr>
+                <td>Brand</td>
+                <td>Age group</td>
+                <td>Gender</td>
+                <td>EAN</td>
+                <td>Fruugo ID</td>
+             </tr>
+
+             <tr>
+                <td>Unbranded</td>
+                <td>Adults</td>
+                <td>Unisex</td>
+                <td>4053806696591</td>
+                <td>63248571-127860010</td>
+             </tr>
+        </table>
+    </body>
+</html>
