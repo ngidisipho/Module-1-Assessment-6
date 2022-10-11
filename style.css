@@ -1,0 +1,16 @@
+.gallery img{
+    width: 100%;
+}
+#menu{
+    width:100%;
+    height:40px;
+    background-color:royalblue;
+    padding-top: 12px;
+}
+
+#menu a{
+}
+
+#menu a:hover{
+    color:#5077bd;
+}
